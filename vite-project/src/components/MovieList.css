@@ -1,0 +1,27 @@
+.movie-list {
+    margin-top: 16px;
+}
+
+.movie-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.movie-name {
+    margin-right: 8px;
+}
+
+.delete-button {
+    background-color: red;
+    background: red;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
